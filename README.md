@@ -37,7 +37,7 @@
 
 Realmente estou apaixonado pelo Fish (Friendly Interative Shell), achei incrível instalar e customizar.
 
-![Fish](/home/edius/Dotfile/My dotfile/_resources/Fish1.png)
+![Fish](/_resources/Fish1.png)
 
 Muito bonito, rápido e possui muitas funcionalidades que teriamos que instalar muitos plugins para igualar ao que já vem pronto no Fish.
 
