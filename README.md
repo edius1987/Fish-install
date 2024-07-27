@@ -276,13 +276,13 @@ bash -c "$(wget -qO- https://git.io/vQgMr)"
 
 Digite o número 69 para escolher o tema “Everforest Dark Hard”.
 
-![Gogh](/home/edius/Dotfile/My dotfile/_resources/Fish2.png)
+![Gogh](/_resources/Fish2.png)
 
-![Gogh - Rodando](/home/edius/Dotfile/My dotfile/_resources/Fish3.png)
+![Gogh - Rodando](/_resources/Fish3.png)
 
 Por fim, faça logout da sessão atual e faça login novamente para que as alterações tenham efeito. Agora, o terminal GNOME usará o shell Fish como padrão. 🎉
 
-![Fish](/home/edius/Dotfile/My dotfile/_resources/Fish4.png)
+![Fish](/_resources/Fish4.png)
 
 #### Outros temas Oh My Posh
 
